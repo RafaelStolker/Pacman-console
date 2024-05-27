@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "pacmanconsole/1.0.0": {
+        "dependencies": {
+          "AStarNavigator": "1.0.63"
+        },
+        "runtime": {
+          "pacmanconsole.dll": {}
+        }
+      },
+      "AStarNavigator/1.0.63": {
+        "runtime": {
+          "lib/net35/AStarNavigator.dll": {
+            "assemblyVersion": "1.0.63.0",
+            "fileVersion": "1.0.63.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pacmanconsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AStarNavigator/1.0.63": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-F0bEh6WAuTQrOJJ/K1rURf9PG45QRnBf1uNObkJeVGgVoiq3odb5e5w9s8J2XgEiN1pQTfOr/gdKEtSW5JTfuQ==",
+      "path": "astarnavigator/1.0.63",
+      "hashPath": "astarnavigator.1.0.63.nupkg.sha512"
+    }
+  }
+}

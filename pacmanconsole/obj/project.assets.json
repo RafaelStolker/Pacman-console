@@ -1,0 +1,108 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "AStarNavigator/1.0.63": {
+        "type": "package",
+        "compile": {
+          "lib/net35/AStarNavigator.dll": {}
+        },
+        "runtime": {
+          "lib/net35/AStarNavigator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AStarNavigator/1.0.63": {
+      "sha512": "F0bEh6WAuTQrOJJ/K1rURf9PG45QRnBf1uNObkJeVGgVoiq3odb5e5w9s8J2XgEiN1pQTfOr/gdKEtSW5JTfuQ==",
+      "type": "package",
+      "path": "astarnavigator/1.0.63",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "astarnavigator.1.0.63.nupkg.sha512",
+        "astarnavigator.nuspec",
+        "lib/net35/AStarNavigator.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "AStarNavigator >= 1.0.63"
+    ]
+  },
+  "packageFolders": {
+    "/Users/rafaelstolker/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/rafaelstolker/Downloads/Rafael's Pacman/pacmanconsole/pacmanconsole.csproj",
+      "projectName": "pacmanconsole",
+      "projectPath": "/Users/rafaelstolker/Downloads/Rafael's Pacman/pacmanconsole/pacmanconsole.csproj",
+      "packagesPath": "/Users/rafaelstolker/.nuget/packages/",
+      "outputPath": "/Users/rafaelstolker/Downloads/Rafael's Pacman/pacmanconsole/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/rafaelstolker/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "AStarNavigator": {
+            "target": "Package",
+            "version": "[1.0.63, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'AStarNavigator 1.0.63' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "AStarNavigator",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

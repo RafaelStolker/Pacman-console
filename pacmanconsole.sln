@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1703.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pacmanconsole", "pacmanconsole\pacmanconsole.csproj", "{640DA369-5DCB-459E-B9DB-2D000046548E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{640DA369-5DCB-459E-B9DB-2D000046548E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{640DA369-5DCB-459E-B9DB-2D000046548E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{640DA369-5DCB-459E-B9DB-2D000046548E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{640DA369-5DCB-459E-B9DB-2D000046548E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {280CABEB-7B1E-4D94-9D73-8EE5065A44F4}
+	EndGlobalSection
+EndGlobal

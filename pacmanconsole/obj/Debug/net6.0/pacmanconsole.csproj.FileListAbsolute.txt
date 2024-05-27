@@ -1,0 +1,34 @@
+/Users/rafaelstolker/Documents/HBO-ICT/Pacman/pacman-godot/Console/pacmanconsole/bin/Debug/net6.0/pacmanconsole
+/Users/rafaelstolker/Documents/HBO-ICT/Pacman/pacman-godot/Console/pacmanconsole/bin/Debug/net6.0/pacmanconsole.deps.json
+/Users/rafaelstolker/Documents/HBO-ICT/Pacman/pacman-godot/Console/pacmanconsole/bin/Debug/net6.0/pacmanconsole.runtimeconfig.json
+/Users/rafaelstolker/Documents/HBO-ICT/Pacman/pacman-godot/Console/pacmanconsole/bin/Debug/net6.0/pacmanconsole.dll
+/Users/rafaelstolker/Documents/HBO-ICT/Pacman/pacman-godot/Console/pacmanconsole/bin/Debug/net6.0/pacmanconsole.pdb
+/Users/rafaelstolker/Documents/HBO-ICT/Pacman/pacman-godot/Console/pacmanconsole/bin/Debug/net6.0/AStarNavigator.dll
+/Users/rafaelstolker/Documents/HBO-ICT/Pacman/pacman-godot/Console/pacmanconsole/obj/Debug/net6.0/pacmanconsole.csproj.AssemblyReference.cache
+/Users/rafaelstolker/Documents/HBO-ICT/Pacman/pacman-godot/Console/pacmanconsole/obj/Debug/net6.0/pacmanconsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rafaelstolker/Documents/HBO-ICT/Pacman/pacman-godot/Console/pacmanconsole/obj/Debug/net6.0/pacmanconsole.AssemblyInfoInputs.cache
+/Users/rafaelstolker/Documents/HBO-ICT/Pacman/pacman-godot/Console/pacmanconsole/obj/Debug/net6.0/pacmanconsole.AssemblyInfo.cs
+/Users/rafaelstolker/Documents/HBO-ICT/Pacman/pacman-godot/Console/pacmanconsole/obj/Debug/net6.0/pacmanconsole.csproj.CoreCompileInputs.cache
+/Users/rafaelstolker/Documents/HBO-ICT/Pacman/pacman-godot/Console/pacmanconsole/obj/Debug/net6.0/pacmanconsole.csproj.CopyComplete
+/Users/rafaelstolker/Documents/HBO-ICT/Pacman/pacman-godot/Console/pacmanconsole/obj/Debug/net6.0/pacmanconsole.dll
+/Users/rafaelstolker/Documents/HBO-ICT/Pacman/pacman-godot/Console/pacmanconsole/obj/Debug/net6.0/refint/pacmanconsole.dll
+/Users/rafaelstolker/Documents/HBO-ICT/Pacman/pacman-godot/Console/pacmanconsole/obj/Debug/net6.0/pacmanconsole.pdb
+/Users/rafaelstolker/Documents/HBO-ICT/Pacman/pacman-godot/Console/pacmanconsole/obj/Debug/net6.0/pacmanconsole.genruntimeconfig.cache
+/Users/rafaelstolker/Documents/HBO-ICT/Pacman/pacman-godot/Console/pacmanconsole/obj/Debug/net6.0/ref/pacmanconsole.dll
+/Users/rafaelstolker/Downloads/Rafael's Pacman/pacmanconsole/bin/Debug/net6.0/pacmanconsole
+/Users/rafaelstolker/Downloads/Rafael's Pacman/pacmanconsole/bin/Debug/net6.0/pacmanconsole.deps.json
+/Users/rafaelstolker/Downloads/Rafael's Pacman/pacmanconsole/bin/Debug/net6.0/pacmanconsole.runtimeconfig.json
+/Users/rafaelstolker/Downloads/Rafael's Pacman/pacmanconsole/bin/Debug/net6.0/pacmanconsole.dll
+/Users/rafaelstolker/Downloads/Rafael's Pacman/pacmanconsole/bin/Debug/net6.0/pacmanconsole.pdb
+/Users/rafaelstolker/Downloads/Rafael's Pacman/pacmanconsole/bin/Debug/net6.0/AStarNavigator.dll
+/Users/rafaelstolker/Downloads/Rafael's Pacman/pacmanconsole/obj/Debug/net6.0/pacmanconsole.csproj.AssemblyReference.cache
+/Users/rafaelstolker/Downloads/Rafael's Pacman/pacmanconsole/obj/Debug/net6.0/pacmanconsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rafaelstolker/Downloads/Rafael's Pacman/pacmanconsole/obj/Debug/net6.0/pacmanconsole.AssemblyInfoInputs.cache
+/Users/rafaelstolker/Downloads/Rafael's Pacman/pacmanconsole/obj/Debug/net6.0/pacmanconsole.AssemblyInfo.cs
+/Users/rafaelstolker/Downloads/Rafael's Pacman/pacmanconsole/obj/Debug/net6.0/pacmanconsole.csproj.CoreCompileInputs.cache
+/Users/rafaelstolker/Downloads/Rafael's Pacman/pacmanconsole/obj/Debug/net6.0/pacmanconsole.csproj.CopyComplete
+/Users/rafaelstolker/Downloads/Rafael's Pacman/pacmanconsole/obj/Debug/net6.0/pacmanconsole.dll
+/Users/rafaelstolker/Downloads/Rafael's Pacman/pacmanconsole/obj/Debug/net6.0/refint/pacmanconsole.dll
+/Users/rafaelstolker/Downloads/Rafael's Pacman/pacmanconsole/obj/Debug/net6.0/pacmanconsole.pdb
+/Users/rafaelstolker/Downloads/Rafael's Pacman/pacmanconsole/obj/Debug/net6.0/pacmanconsole.genruntimeconfig.cache
+/Users/rafaelstolker/Downloads/Rafael's Pacman/pacmanconsole/obj/Debug/net6.0/ref/pacmanconsole.dll

@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="AStarPathFinder" />
+    <None Remove="AStarNavigator" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="AStarNavigator" Version="1.0.63" />
+  </ItemGroup>
+</Project>

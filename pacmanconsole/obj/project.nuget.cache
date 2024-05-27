@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "JKVHyVI+BrSSIVWXrGnvkt0uvzJxmBIPVkMtSJqeG83ww3RGCC7VRPhaoQb2+TyUDMlcMRsPX/3Po5/T5IjJVg==",
+  "success": true,
+  "projectFilePath": "/Users/rafaelstolker/Downloads/Rafael's Pacman/pacmanconsole/pacmanconsole.csproj",
+  "expectedPackageFiles": [
+    "/Users/rafaelstolker/.nuget/packages/astarnavigator/1.0.63/astarnavigator.1.0.63.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'AStarNavigator 1.0.63' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "AStarNavigator",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
